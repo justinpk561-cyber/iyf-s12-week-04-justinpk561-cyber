@@ -2,8 +2,8 @@
 
 ## Author
 
-- Name: [Justin Keya]
-- GitHub: "@justinpk561-cyber" (https://github.com/justinpk561-cyber)
+- Name: Justin Keya
+- [GitHub: "@justinpk561-cyber"](https://github.com/justinpk561-cyber)
 - Date: November 9, 2026
 
 ## Project Description
